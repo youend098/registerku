@@ -3,6 +3,7 @@
 ![License](https://img.shields.io/github/license/youend098/server)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Stars](https://img.shields.io/github/stars/youend098/server?style=social)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ---
 ### ⚙️SCRYPT BY MF_youend⚙️
