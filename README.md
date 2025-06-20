@@ -1,8 +1,6 @@
-![Forks](https://img.shields.io/github/forks/youend098/serverku?style=social)
-![Stars](https://img.shields.io/github/stars/youend098/serverku?style=social)
-![License](https://img.shields.io/github/license/youend098/serverku)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-
+![License](https://img.shields.io/github/license/youend098/serverku)
+![Stars](https://img.shields.io/github/stars/youend098/serverku?style=social)
 ---
 ### ⚙️SCRYPT BY MF_youend⚙️
 ---
