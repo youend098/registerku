@@ -1,6 +1,6 @@
-![Forks](https://img.shields.io/github/forks/youend098/server?style=social)
-![Stars](https://img.shields.io/github/stars/youend098/server?style=social)
-![License](https://img.shields.io/github/license/youend098/server)
+![Forks](https://img.shields.io/github/forks/youend098/serverku?style=social)
+![Stars](https://img.shields.io/github/stars/youend098/serverku?style=social)
+![License](https://img.shields.io/github/license/youend098/serverku)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 ---
